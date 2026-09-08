@@ -1,0 +1,9 @@
+# Text file normalization
+# Generated on 2026-11-10
+public/index.html linguist-vendored
+
+*.tsx linguist-detectable
+Cargo.lock linguist-generated
+*.jpeg binary
+src/** linguist-detectable
+# eof a435f5ee
