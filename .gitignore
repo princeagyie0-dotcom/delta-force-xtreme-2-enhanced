@@ -1,0 +1,6 @@
+.cache/
+yarn-error.log*
+*.tgz
+.DS_Store
+.pnpm-store/
+node_modules/
